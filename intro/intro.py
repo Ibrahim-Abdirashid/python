@@ -5,7 +5,7 @@ b = 10
 print(type(a))
 print(b)
 
-if 5 < 10:
- print("five is less then number 10")
+name = "Ibrahim Abdirashid Ibrahim"
+print(name)
 
 """ this is the multiline comment"""
