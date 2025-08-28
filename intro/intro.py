@@ -10,6 +10,7 @@ print(b)
 
 
 
+
 name = "Ibrahim Abdirashid Ibrahim"
 print(name)
 
@@ -19,4 +20,8 @@ print(x)
 print(y)
 print(z)
 
-""" this is the multiline comment"""
+#one value to multiple variables
+x = y =z = "orange"
+print(x)
+print(y)
+print(z)
